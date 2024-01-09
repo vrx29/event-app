@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Zakir Khan Live - Delhi",
+      "description": "This rib-tickling comedy tour will not just be about punchlines and hilarity, but an experience in itself; with an array of food and drinks to choose from. Expect to find the state’s hottest eateries serving drool-worthy delicacies, dedicated chill zones serving drinks of your choice, and a whole lot of fun and laughter.",
+      "duration": "2",
+      "venue": "Thyagraj Stadium",
+      "price": "999"
+    },
+    {
+      "id": 2,
+      "name": "Kisi Ko Batana Mat Ft. Anubhav Singh Bassi",
+      "description": "After the great success of his previous show 'Bas kar bassi,' Anubhav Singh Bassi is coming back to perform live on stage. This time, he will bring a whole new set of funny stories and jokes that will keep you entertained. Get ready to enjoy an exciting and hilarious performance that will make you laugh uncontrollably and leave you in high spirits.",
+      "duration": "1.5",
+      "venue": "HK Hall",
+      "price": "599"
+    },
+    {
+      "id": 3,
+      "name": "Hamleys Play - WorldMark Gurgaon",
+      "description": "Breathing in a whole new life to the traditional idea of play, Hamleys play Area infuses the liveliness of the outdoor and the never-ending elusiveness of the fantasies of a child’s mind.",
+      "duration": "N/A",
+      "venue": "WorldMark",
+      "price": "500"
+    }
+  ]
+}
